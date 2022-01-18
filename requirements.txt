@@ -1,0 +1,5 @@
+spacy==3.2.1
+torch==1.8.1
+trafilatura==1.0.0
+mordecai==2.1.0
+spacy-universal-sentence-encoder==0.4.3
